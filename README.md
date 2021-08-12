@@ -13,7 +13,7 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 
 ●📊statistics of my last used languages. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivier21200&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivier21200&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on Game Serveur in Five m (LUA, SQL, HTML, CSS, JS)
 
