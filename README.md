@@ -11,7 +11,7 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Olivier21200)
 
-
+●📊statistics of my last used languages. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivier21200)
 
