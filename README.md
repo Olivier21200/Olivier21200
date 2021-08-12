@@ -1,4 +1,7 @@
-### Hi there 👋
+Hello everyone and welcome to my github profile 👋
+
+I am a French student in computer science, passionate and motivated with a solid base in hardware and software.
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Olivier21200)
 
