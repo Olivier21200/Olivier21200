@@ -2,7 +2,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Olivier21200)
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 <!--
 **Olivier21200/Olivier21200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
