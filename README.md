@@ -17,7 +17,7 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 
 🔭 I’m currently working on Game Serveur in Five m (LUA, SQL, HTML, CSS, JS)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Olivier21200)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
