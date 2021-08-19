@@ -6,7 +6,7 @@ I am a French student in computer science, passionate and motivated with a solid
 Within the framework of training or personal projects, I had the opportunity to discover and practice several languages:
 HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 
-#### Top Technologies
+#### ●💻Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -24,7 +24,7 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 
 🔭 I’m currently working on Game Serveur in Five m (LUA, SQL, HTML, CSS, JS)
 
-#### Profile Visits 
+#### 👀Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Olivier21200.README)
 
