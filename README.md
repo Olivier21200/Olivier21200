@@ -21,9 +21,17 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivier21200&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- -->
 
-🔭 I’m currently working on Game Serveur in Five m (LUA, SQL, HTML, CSS, JS)
 
+- **🔭 I’m currently working on Game Serveur in Five m (LUA, SQL, HTML, CSS, JS)**
+- **🌱 I am learning PHP**
+- **👯 I'm looking to collaborate with passionate and open-minded people**
+- **🤔 I'm looking for help to improve**
+- **💬 Ask me questions about IT**
+- **📫 How to reach me: olivier21.gonzalez@gmail.fr**
+- **😄 Pronoms : Gonza**
+- **⚡ Fun fact: I am French**
 #### 👀Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Olivier21200.README)
