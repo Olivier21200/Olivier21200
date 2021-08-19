@@ -15,8 +15,12 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivier21200&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+
 🔭 I’m currently working on Game Serveur in Five m (LUA, SQL, HTML, CSS, JS)
 
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Olivier21200.README)
 
 
 
