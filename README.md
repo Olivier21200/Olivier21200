@@ -6,6 +6,8 @@ I am a French student in computer science, passionate and motivated with a solid
 Within the framework of training or personal projects, I had the opportunity to discover and practice several languages:
 HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 
+#### ●🎑Social Networks
+
 [![Twitter Badge](https://img.shields.io/badge/-@Gonza-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/gonza) [![Mail Badge](https://img.shields.io/badge/-Gonza_YT-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtEICoZ6z9AGKleFmqPEoug) [![Linkedin Badge](https://img.shields.io/badge/-Olivier-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivier-sirugue-21b658213/) [![Mail Badge](https://img.shields.io/badge/-@Olivier_Sirugue-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/olivier_sirugue/) [![Mail Badge](https://img.shields.io/badge/-olivier21.gonzalez@gmail.fr-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:olivier21.gonzalez@gmail.fr)
 
 
@@ -30,10 +32,12 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 - **🌱 I am learning PHP**
 - **👯 I'm looking to collaborate with passionate and open-minded people**
 - **🤔 I'm looking for help to improve**
+- **🎸 My favourite type of music is rock**
 - **💬 Ask me questions about IT**
 - **📫 How to reach me: olivier21.gonzalez@gmail.fr**
 - **😄 Pronoms : Gonza**
 - **⚡ Fun fact: I am French**
+
 
 #### 👀Profile Visits 
 
