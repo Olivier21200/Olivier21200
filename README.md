@@ -29,7 +29,7 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 
 
 - **🔭 I’m currently working on Game Serveur in Five m (LUA, SQL, HTML, CSS, JS)**
-- **🌱 I am learning PHP**
+- **🌱 I am learning php**
 - **👯 I'm looking to collaborate with passionate and open-minded people**
 - **🤔 I'm looking for help to improve**
 - **🎸 My favourite type of music is rock**
