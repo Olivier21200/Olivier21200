@@ -38,7 +38,6 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 - **😄 Pronoms : Gonza**
 - **⚡ Fun fact: I am French**
 
-
 #### 👀Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Olivier21200.README)
