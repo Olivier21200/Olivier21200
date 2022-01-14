@@ -24,7 +24,7 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 
 ●📊statistics of my last used languages. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivier21200&layout=compact&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivier21200&layout=compact&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
