@@ -38,7 +38,8 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 - **😄 Pronoms : Gonza**
 - **⚡ Fun fact: I am French**
 - 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Gonzasuerte.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Gonzasuerte.png" alt="TryHackMe" height="60" width="60">
+<img src="http://url/image.png" height="60" width="60" >
 
 #### 👀Profile Visits 
 
