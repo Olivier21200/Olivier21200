@@ -37,10 +37,7 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 - **📫 How to reach me: olivier21.gonzalez@gmail.fr**
 - **😄 Pronoms : Gonza**
 - **⚡ Fun fact: I am French**
-- 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Gonzasuerte.png" alt="TryHackMe" height="60" width="60">
-<img src="https://www.qwant.com/?client=ext-chrome-sb&q=hydra++linux&t=images&o=0%3A24D900C680825B3A9B93E2A2854EAE8C706B08B6" height="60" width="60" >
-<script src="https://tryhackme.com/badge/703560"></script>
+
 
 #### 👀Profile Visits 
 
