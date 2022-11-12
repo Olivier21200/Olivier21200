@@ -38,7 +38,7 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal.
 - **😄 Pronoms : Gonza**
 
 #### ●💻 Cyber :
-<img src="https://tryhackme-badges.s3.amazonaws.com/Gonzasuerte.png" alt="TryHackMe">
+
  
 #### 👀Profile Visits 
 
