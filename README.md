@@ -16,19 +16,6 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal,.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivier21200&layout=compact&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=olivier21200&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-
-
-- **🔭 I’m currently working on Game Serveur in Five m (LUA, SQL, HTML, CSS, JS)**
-- **🌱 I am learning python**
-- **👯 I'm looking to collaborate with passionate and open-minded people**
-- **🤔 I'm looking for help to improve**
-- **🎸 My favourite type of music is rock**
-- **💬 Ask me questions about IT**
-- **😄 Pronoms : Gonza**
-
-#### ●💻 Cyber :
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Gonzasuerte.png" alt="TryHackMe">
  
 #### 👀Profile Visits 
 
