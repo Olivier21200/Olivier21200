@@ -17,8 +17,5 @@ HTML, CSS, JS, SQL, PL SQL, PHP, JAVA, C, C#, C++, LUA, BASH, Pascal,.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=olivier21200&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
  
-#### 👀Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Olivier21200.README)
-
+#### 🕵️Profile Tryhackme
 <img src="https://tryhackme-badges.s3.amazonaws.com/Gonzasuerte.png" alt="TryHackMe">
